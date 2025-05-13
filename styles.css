@@ -1,0 +1,39 @@
+*{
+    font-family: system-ui, 'Segoe UI', 'Open Sans', 'Helvetica Neue', sans-serif;
+    margin: 20px;
+}
+
+h1{
+    background-color: aquamarine;
+    text-align: center;
+    padding: 8px;
+}
+
+
+h2{
+    padding: 4px;
+}
+
+h3{
+    padding: 2px;
+}
+
+
+img{
+    display: block;
+    width: 100%;
+    max-width: 400px;
+    height: auto;
+    margin: auto;
+}
+
+.navbar{
+    display: block;
+    padding: 4px;
+    background-color: chartreuse ;
+}
+
+p{
+    padding: 4px;
+    border: 4px;
+}
